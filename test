@@ -1,0 +1,3 @@
+git remote add originhttps://github.com//.git
+git push -u origin master
+
